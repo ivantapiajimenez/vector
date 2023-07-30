@@ -27,8 +27,9 @@ secret_key.txt
 
 # Ignorar archivos de respaldo creados por editores de texto
 *~
-
 .vs/
-
 x64/
+
+
+
 
